@@ -1,0 +1,176 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Kursi"
+    },
+    {
+      "id": 2,
+      "nama": "Meja"
+    },
+    {
+      "id": 3,
+      "nama": "Lemari"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "I-01",
+      "nama": "White Aesthetic Chair",
+      "harga": 200000,
+      "is_ready": true,
+      "gambar": "https://i.postimg.cc/cChr57Fk/Rectangle-23.png",
+      "category": {
+        "id": 1,
+        "nama": "Kursi"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "I-02",
+      "nama": "Minimalist Lounge Chair",
+      "harga": 150000,
+      "is_ready": true,
+      "gambar": "https://i.postimg.cc/xTKQvGsL/kursi2.png",
+      "category": {
+        "id": 1,
+        "nama": "Kursi"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "I-03",
+      "nama": "Sofa Empuk Banget",
+      "harga": 335000,
+      "is_ready": true,
+      "gambar": "https://i.postimg.cc/xqr0cVPZ/Rectangle-24.png",
+      "category": {
+        "id": 1,
+        "nama": "Kursi"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "I-04",
+      "nama": "Exclusive Chair Brown",
+      "harga": 250000,
+      "is_ready": true,
+      "gambar": "https://i.postimg.cc/wTJWJYVk/unsplash-z-XFtsdi9d-Ic.png",
+      "category": {
+        "id": 1,
+        "nama": "Kursi"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "I-05",
+      "nama": "Minimalist Wood Chair",
+      "harga": 355000,
+      "is_ready": true,
+      "gambar": "https://i.postimg.cc/NfpKd5pG/unsplash-E5-Vqdtx-LLMs.png",
+      "category": {
+        "id": 1,
+        "nama": "Kursi"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "I-06",
+      "nama": "White Marble Table",
+      "harga": 450000,
+      "is_ready": true,
+      "gambar": "https://i.postimg.cc/Wb5gy9Xk/unsplash-YBG3jop-Ja-S0.png",
+      "category": {
+        "id": 2,
+        "nama": "Meja"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "I-07",
+      "nama": "Minimalist Work Table",
+      "harga": 250000,
+      "is_ready": true,
+      "gambar": "https://i.postimg.cc/bvyXvw1M/unsplash-5e-NUTCY19c-E.png",
+      "category": {
+        "id": 2,
+        "nama": "Meja"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "I-08",
+      "nama": "Aesthetic Arabian Table",
+      "harga": 800000,
+      "is_ready": true,
+      "gambar": "https://i.postimg.cc/RCkZZwhD/unsplash-t-N6-IWBMRGMs.png",
+      "category": {
+        "id": 2,
+        "nama": "Meja"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "I-09",
+      "nama": "White Desk Table",
+      "harga": 650000,
+      "is_ready": true,
+      "gambar": "https://i.postimg.cc/7h20d7YT/unsplash-i-P0-PZ1-QGNCg.png",
+      "category": {
+        "id": 2,
+        "nama": "Meja"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "I-10",
+      "nama": "Minimalist Wood Table",
+      "harga": 485000,
+      "is_ready": true,
+      "gambar": "https://i.postimg.cc/fTQ9kVRB/unsplash-7-9-SSml-VMc-U.png",
+      "category": {
+        "id": 2,
+        "nama": "Meja"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "I-11",
+      "nama": "White Wood Wardoebe",
+      "harga": 1500000,
+      "is_ready": true,
+      "gambar": "https://i.postimg.cc/wvVDpHh9/unsplash-v8u-MIZ8-GCTc.png",
+      "category": {
+        "id": 3,
+        "nama": "Lemari"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "I-12",
+      "nama": "Djati Wood Wardrobe",
+      "harga": 2000000,
+      "is_ready": true,
+      "gambar": "https://i.postimg.cc/rppDrWW2/unsplash-3f-FBo-EHee28.png",
+      "category": {
+        "id": 3,
+        "nama": "Lemari"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "I-13",
+      "nama": "Aesthetic Minimalist Wardrobe",
+      "harga": 3500000,
+      "is_ready": true,
+      "gambar": "https://i.postimg.cc/266nrMTv/unsplash-mi6-Sl4e-GY0.png",
+      "category": {
+        "id": 3,
+        "nama": "Lemari"
+      }
+    }
+  ],
+  "keranjang": [],
+  "pesanan": []
+}
